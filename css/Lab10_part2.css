@@ -1,0 +1,9 @@
+body{
+    margin: 0 100px;
+}
+img{ 
+    position:absolute;           	
+    visibility: visible;
+    height: 60;
+    width: 97;
+}
